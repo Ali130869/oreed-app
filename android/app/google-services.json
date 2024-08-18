@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "244957009251",
+    "firebase_url": "https://oreed-sy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "oreed-sy",
+    "storage_bucket": "oreed-sy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244957009251:android:28f2ef2fc6f8415ef4ef56",
+        "android_client_info": {
+          "package_name": "com.oreed.deliveryman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244957009251-ni5mpmevbjv4cqhb3rth18dtequ0l4ek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreed.deliveryman",
+            "certificate_hash": "5ae7a5d767c82b051d32537e4e85bd12d4946f35"
+          }
+        },
+        {
+          "client_id": "244957009251-r9akl59ec32e4em6ht65snrprtj522e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreed.deliveryman",
+            "certificate_hash": "92c551ab2f5691c2a9739a06f78aaf25eb49a58a"
+          }
+        },
+        {
+          "client_id": "244957009251-uqdb2og73hffcdkrfgik2pf2oq35qouh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreed.deliveryman",
+            "certificate_hash": "f5d68046f2b9279f7644fef2365baae8dc1d3f44"
+          }
+        },
+        {
+          "client_id": "244957009251-hghd9d74aqu19pil6timj3dpkp9ibivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOC6koJjR2ZFTk2ctA1Ckqpw-GUFe__Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244957009251-7fak3lmna21kaluqjfi13g4g7iv5k9nc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244957009251-rvjeibuo3tlti0jlbpo8563eq7tdatpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "1624684412",
+                "app_store_id": "1624684412"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244957009251:android:fe029b355e8cd6cbf4ef56",
+        "android_client_info": {
+          "package_name": "com.oreed.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244957009251-rfphoomf7o2rmtcnko37s74cqlgti7io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreed.store",
+            "certificate_hash": "92c551ab2f5691c2a9739a06f78aaf25eb49a58a"
+          }
+        },
+        {
+          "client_id": "244957009251-hghd9d74aqu19pil6timj3dpkp9ibivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOC6koJjR2ZFTk2ctA1Ckqpw-GUFe__Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244957009251-7fak3lmna21kaluqjfi13g4g7iv5k9nc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244957009251-rvjeibuo3tlti0jlbpo8563eq7tdatpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "1624684412",
+                "app_store_id": "1624684412"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244957009251:android:7d582178c54a9d93f4ef56",
+        "android_client_info": {
+          "package_name": "com.oreed.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244957009251-4k7c70m9fjtkb3s8uu80muh95tvr83d6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreed.user",
+            "certificate_hash": "92c551ab2f5691c2a9739a06f78aaf25eb49a58a"
+          }
+        },
+        {
+          "client_id": "244957009251-94j3cg9lcchve5i0bh2f49roh1c3vi5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreed.user",
+            "certificate_hash": "f5d68046f2b9279f7644fef2365baae8dc1d3f44"
+          }
+        },
+        {
+          "client_id": "244957009251-hghd9d74aqu19pil6timj3dpkp9ibivn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOC6koJjR2ZFTk2ctA1Ckqpw-GUFe__Vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244957009251-7fak3lmna21kaluqjfi13g4g7iv5k9nc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244957009251-rvjeibuo3tlti0jlbpo8563eq7tdatpg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "1624684412",
+                "app_store_id": "1624684412"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
